@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@413150be53d5559a8e125ce81145026f086bfb8d
         with:
-          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
+          API_BASE_URL: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_API_KEY: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
