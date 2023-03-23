@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡The most important thing for me is to do push-ups.
+💬The most important thing for me is to do push-ups.
 
-It starts on the 2023-3-22.
+------- It starts on the 2023-3-22 --------
+Count 40 now!
+------- update:2023-3-24 ---------
 
-Count 20 now!
-
-update:2023-3-23
-
+📊 &nbsp;**This is my code record**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zone-F&layout=compact&hide=css,html)
 
-📊 &nbsp;**This week I spent my time on**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
