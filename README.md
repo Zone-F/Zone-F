@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 ------- It starts on the 2023-3-22 --------
 
-Count 40 now!
+Count 70 now!
 
-------- update:2023-3-24 ---------
+------- update:2023-3-25 ---------
 
-📊 &nbsp;**This is my code record**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zone-F&layout=compact&hide=css,html)
 
